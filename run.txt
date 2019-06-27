@@ -1,0 +1,13 @@
+To convert int the bit map format
+	convert input.jpg output.ppm
+
+To convert into the vector file
+	potrace -s output.ppm -o svgout.svg
+commands 
+
+1.cat >> file.txt  = add to the file
+2.cat >> file.txt  = creates new file and add to this
+
+
+
+cat filename.txt = simply view the file content in the terminal
